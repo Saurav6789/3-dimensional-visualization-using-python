@@ -1,0 +1,25 @@
+# Table of Contents
+- 1. Import necessary libraries
+- 2.Plotting 3-D Axis
+- 3.Three-dimensional Points and Lines
+- 4.3D Data Structure
+- 5.Hand-drawn Style
+- 6.Three-dimensional Contour Plots
+- 7.Wireframes and Surface Plots
+- 8.Surface Plots
+- 9.TriSurf
+- 10.Polygon Plots
+- 11.Bar Plots
+   - 11.1 Barplot 2.5D
+   - 11.2 Barplot 3d
+- 12.Parametric curve 3d Graph
+- 13.Horse Saddle 3d Graph
+- 14.Spatial Acquity
+- 15.Earflap Hat 3D Graphs
+- 16.Quiver
+- 17.Text
+- 18.Subplotting
+- 19.Rotatting 3d plot with Mouse
+- 20.3d Plotting using plotly
+- 21.Conclusion
+- 22.References
