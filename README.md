@@ -1,5 +1,5 @@
 # Table of Contents
-- 1. Import necessary libraries
+- 1.Import necessary libraries
 - 2.Plotting 3-D Axis
 - 3.Three-dimensional Points and Lines
 - 4.3D Data Structure
